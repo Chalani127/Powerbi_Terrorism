@@ -1,6 +1,6 @@
 # Power BI Dashboards
 
-This repository contains my Power BI dashboards created for analytics and data visualization projects.
+This repository contains my Power BI dashboards created for analytics and data visualization projects at University.
 
 ## 1. Global Terrorism Dashboard
 - Interactive map of global incidents
