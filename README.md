@@ -6,6 +6,7 @@ This repository contains my Power BI dashboards created for analytics and data v
 - Interactive map of global incidents
 - Attack types, targets, casualties & timeline analysis
 - Country and region filters
+- Full interactive dashboard (.pbix) available here: [Download from Google Drive](https://drive.google.com/file/d/10_HoB-5H6CIzQD5QRjbP99R9cOrgy0JP/view?usp=sharing)  
 
 ## 2. MBA Eligibility Dashboard
 - Data cleaning & transformation using Power Query
