@@ -1,15 +1,24 @@
-# Power BI Dashboards
+# Global Terrorism Dashboard
 
-This repository contains my Power BI dashboards created for analytics and data visualization projects at University.
+## Overview
+This Power BI dashboard provides an interactive analysis of global terrorism incidents. It visualizes trends, attack types, targets, and casualty patterns across countries and regions, helping users explore the data intuitively.
 
-## 1. Global Terrorism Dashboard
-- Interactive map of global incidents
-- Attack types, targets, casualties & timeline analysis
-- Country and region filters
-- Full interactive dashboard (.pbix) available here: [Download from Google Drive](https://drive.google.com/file/d/10_HoB-5H6CIzQD5QRjbP99R9cOrgy0JP/view?usp=sharing)  
+## Features
+- Interactive world map of terrorism incidents  
+- Analysis of attack types, targets, and casualties  
+- Timeline visualizations to observe trends over years  
+- Filters for countries and regions for focused analysis  
 
-## 2. MBA Eligibility Dashboard
-- Data cleaning & transformation using Power Query
-- Automated experience calculation using DAX
-- Visualizations for eligibility distribution & candidate profiles
+## Dataset
+- Data includes terrorist incidents worldwide with details on attack type, targets, casualties, and locations.
 
+## How to Use
+1. Download the `.pbix` file from [Google Drive link]  
+2. Open in **Power BI Desktop**  
+3. Explore the dashboard using slicers and filters for dynamic insights
+
+## Tools Used
+- Microsoft Power BI  
+- DAX for calculations  
+- Power Query for data preprocessing  
+- Geo-visualizations for mapping incidents  
