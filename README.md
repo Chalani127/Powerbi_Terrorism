@@ -10,7 +10,7 @@ This Power BI dashboard provides an interactive analysis of global terrorism inc
 - Filters for countries and regions for focused analysis  
 
 ## Dataset
-- Source - 
+- Source - [Download the dataset](https://docs.google.com/spreadsheets/d/1jvvgCFXxwJqjMtGPmlgQjU_swWEUm2sr/edit?usp=drive_link&ouid=102888207369848649171&rtpof=true&sd=true)
 - Data includes terrorist incidents worldwide with details on attack type, targets, casualties, and locations.
 
 ## How to Use
